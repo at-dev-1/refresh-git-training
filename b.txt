@@ -1,1 +1,1 @@
-this is the contents of B
+this is the contents of B, making anoher change directly from github
